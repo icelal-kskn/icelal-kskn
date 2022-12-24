@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @icelal-kskn
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-icelal-kskn/icelal-kskn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 /*
 * Hi there! My name is Celal and I'm a data scientist with a passion for programming and sports.
 * In my free time, I enjoy playing basketball, soccer, and table tennis.
