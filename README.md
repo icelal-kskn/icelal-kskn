@@ -24,9 +24,8 @@
 <div align="center">
   <h2 align="center">Connect with me </h2>
   <a target="_blank"href="https://www.linkedin.com/in/celal-ikram-keskin-085315228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank"href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a target="_blank"href="https://codepen.io"><img src="https://img.shields.io/badge/CodePen-gray?style=for-the-badge&logo=codepen&logoColor=black" /></a>
-  <a target="_blank"href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a target="_blank"href="https://www.hackerrank.com/icelal_kskn?hr_r=1/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a target="_blank"href="https://stackoverflow.com/users/20946839/kafeinsizcelal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="mailto:programmer.keskincelal@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div><br/><br/>
 
