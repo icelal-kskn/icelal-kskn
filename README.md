@@ -28,11 +28,3 @@
   <a target="_blank"href="https://stackoverflow.com/users/20946839/kafeinsizcelal"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="mailto:programmer.keskincelal@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div><br/><br/>
-
-<!-- stats -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icelal-kskn&layout=compact&theme=dark"><br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=icelal-kskn&theme=dark&hide_border=true"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=icelal-kskn&theme=dark"><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=icelal-kskn&theme=onedark&no-frame=false&no-bg=false&margin-w=4">
-</div>
