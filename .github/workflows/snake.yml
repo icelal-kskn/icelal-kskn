@@ -41,9 +41,12 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          github_token: ${{ secrets.TOKEN_SECRET }}
+          branch: main  # Change 'master' to 'main'
           force: true
+          github_url: https://github.com
+          push_to_submodules: on-demand
+          directory: .
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
