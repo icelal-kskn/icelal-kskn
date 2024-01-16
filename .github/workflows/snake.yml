@@ -41,7 +41,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN_SECRET }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main  # Change 'master' to 'main'
           force: true
           github_url: https://github.com
@@ -54,4 +54,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
